@@ -2,6 +2,7 @@
 # Эxопутро #BlackLivesMatter
 Halo, Saya Eko, hanya seorang manusia biasa. Saya tinggal di Depok, Jawa Barat. 🙌
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkoPTH)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Kutipan
 🔪 i dont stop when i'm tired i stop when i'm done
@@ -57,4 +58,3 @@ For my country 🇮🇩 my religion ☪️ and my family 👨‍👩‍👦‍�
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkoPTH)](https://github.com/anuraghazra/github-readme-stats)
