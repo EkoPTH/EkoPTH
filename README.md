@@ -1,8 +1,9 @@
 @@ -1,25 +1,19 @@
-# Эxопутро #BlackLivesMatter
-Halo, Saya Eko, hanya seorang manusia biasa. Saya tinggal di Depok, Jawa Barat. 🙌
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkoPTH)](https://github.com/anuraghazra/github-readme-stats)
+
+# Эxопутро #BlackLivesMatter
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/EkoPTH/EkoPTH/main/gif.gif" width="500"/>
+Halo, Saya Eko, hanya seorang manusia biasa. Saya tinggal di Depok, Jawa Barat. 🙌
 
 ## Kutipan
 🔪 i dont stop when i'm tired i stop when i'm done
@@ -18,11 +19,7 @@ For my country 🇮🇩 my religion ☪️ and my family 👨‍👩‍👦‍�
 - Telegram: https://t.me/K4uM_R3b4haN
 
 
-
-### Lagu Spotify 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkoPTH)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
